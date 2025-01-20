@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingRandomNumbers", "SortingRandomNumbers\SortingRandomNumbers.csproj", "{ECCA7E0A-7693-420E-A53D-787A84B26593}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExample", "RecursiveExample\RecursiveExample.csproj", "{96E039C4-23BE-4C10-8CC0-AEE7839E036A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromikSayi", "PalindromikSayi\PalindromikSayi.csproj", "{A57BB592-C017-4B03-8DFF-19820CA53B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{96E039C4-23BE-4C10-8CC0-AEE7839E036A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96E039C4-23BE-4C10-8CC0-AEE7839E036A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96E039C4-23BE-4C10-8CC0-AEE7839E036A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57BB592-C017-4B03-8DFF-19820CA53B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57BB592-C017-4B03-8DFF-19820CA53B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57BB592-C017-4B03-8DFF-19820CA53B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57BB592-C017-4B03-8DFF-19820CA53B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
